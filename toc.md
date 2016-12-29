@@ -109,23 +109,3 @@
     * Cache Management
   * Implementation Details
 
-11.Future Work
-  * Code Refactoring
-  * Part classes
-  * Core Admin
-  * Interface Fragment Enhancements
-  * XML semantic validation
-  * Eclipse Plugin for LF
-
-12.Reference
-
-13.Appendix I: Dependencies
-  * JAVA
-  * Third Party JAVA Libraries
-  * Third Party Java Script Libraries
-
-14.Appendix II: Implementation Details
-  * Package Structure
-  * Java Script and Other files
-  * WAR file structure
-  * Table Structure

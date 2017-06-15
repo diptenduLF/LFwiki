@@ -77,7 +77,7 @@
   * Functionality
   * Implementation Details
 
-9.[Coreadmin Application](https://github.com/diptenduLF/LFwiki/commit/ec9cefd26ab98e6e29a51487f81cf50ac73d6468)
+9.[Coreadmin Application](https://github.com/diptenduLF/LFwiki/blob/ec9cefd26ab98e6e29a51487f81cf50ac73d6468/TheCoreadminApplication.md)
   * Functionality
     * Application Template management
     * Theme Management

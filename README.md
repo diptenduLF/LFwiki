@@ -58,14 +58,14 @@
   * Functionality
   * Implementation Details
 
-6.[Application Template](https://github.com/diptenduLF/LFwiki/blob/master/Application%20Template.md)
+6.[Application Template](https://github.com/diptenduLF/LFwiki/blob/master/ApplicationTemplate.md)
   * Overview (difference with content templates)
   * Functionality
   * Implementation Details
     * Application Template Management Screen
     * Apply Template during Markup Generation
 
-7.[Theme](https://github.com/diptenduLF/LFwiki/blob/master/Theme.md)
+7.[Theme](https://github.com/diptenduLF/LFwiki/blob/master/Updatedtheme.md)
   * Overview
   * Functionality
   * Implementation Details
@@ -77,7 +77,7 @@
   * Functionality
   * Implementation Details
 
-9.[Coreadmin Application](https://github.com/diptenduLF/LFwiki/blob/ec9cefd26ab98e6e29a51487f81cf50ac73d6468/TheCoreadminApplication.md)
+9.[Coreadmin Application](https://github.com/diptenduLF/LFwiki/blob/master/TheCoreadminApplication.md)
   * Functionality
     * Application Template management
     * Theme Management
